@@ -1,4 +1,3 @@
-# Whiteboard_Realtime_Collaborative_Application
 
 # Whiteboard Realtime Collaborative Application
 
