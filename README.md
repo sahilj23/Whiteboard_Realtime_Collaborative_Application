@@ -37,7 +37,7 @@ cd Whiteboard_Realtime_Collaborative_Application
 npm install
 
 ## 3. Start the Development Server 
-npm run dev
+npm run dev .
 The app will be available at http://localhost:3000
 
 ## Deployed Demo Link
