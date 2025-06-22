@@ -33,10 +33,10 @@ This is a real-time collaborative whiteboard application that allows multiple us
 git clone https://github.com/yourusername/Whiteboard_Realtime_Collaborative_Application.git
 cd Whiteboard_Realtime_Collaborative_Application
 
-2. Install Dependencies
+## 2. Install Dependencies
 npm install
 
-4. Start the Development Server 
+## 3. Start the Development Server 
 npm run dev
 The app will be available at http://localhost:3000
 
