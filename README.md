@@ -44,4 +44,6 @@ The app will be available at http://localhost:3000
    https://drive.google.com/drive/folders/1klQWtwcQdCc0c1hzYIVBriYvi3yAuw10?usp=sharing
 
 ## Deployed Server on Netlify
-   https://majestic-gecko-6375f0.netlify.app/room/ABC123
+   https://majestic-gecko-6375f0.netlify.app
+
+
