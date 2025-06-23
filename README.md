@@ -30,7 +30,7 @@ This is a real-time collaborative whiteboard application that allows multiple us
 ## Setup Instructions
 
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/Whiteboard_Realtime_Collaborative_Application.git
+git clone https://github.com/sahilj23/Whiteboard_Realtime_Collaborative_Application.git
 cd Whiteboard_Realtime_Collaborative_Application
 
 ## 2. Install Dependencies
